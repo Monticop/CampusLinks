@@ -18,5 +18,5 @@ A simple C# console-based student management system.
 1. Install [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 2. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/CampusLink.git
+   git clone https://github.com/Monticop/CampusLinks.git
    cd CampusLink
