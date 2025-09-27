@@ -1,0 +1,14 @@
+C:\Users\BERGHS\Documents\Projects\CampusLink\bin\Debug\net8.0\CampusLink.exe
+C:\Users\BERGHS\Documents\Projects\CampusLink\bin\Debug\net8.0\CampusLink.deps.json
+C:\Users\BERGHS\Documents\Projects\CampusLink\bin\Debug\net8.0\CampusLink.runtimeconfig.json
+C:\Users\BERGHS\Documents\Projects\CampusLink\bin\Debug\net8.0\CampusLink.dll
+C:\Users\BERGHS\Documents\Projects\CampusLink\bin\Debug\net8.0\CampusLink.pdb
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.AssemblyInfoInputs.cache
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.AssemblyInfo.cs
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.csproj.CoreCompileInputs.cache
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.dll
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\refint\CampusLink.dll
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.pdb
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\CampusLink.genruntimeconfig.cache
+C:\Users\BERGHS\Documents\Projects\CampusLink\obj\Debug\net8.0\ref\CampusLink.dll
