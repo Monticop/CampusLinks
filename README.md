@@ -19,4 +19,6 @@ A simple C# console-based student management system.
 2. Clone the repo:
    ```bash
    git clone https://github.com/Monticop/CampusLinks.git
-   cd CampusLink
+   cd CampusLinks
+   dotnet build
+   dotnet run
